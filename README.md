@@ -1,2 +1,2 @@
 # CameraFilters
-A simple, responsive website for adding camera filters.
+A simple, kind of responsive website for adding camera filters.
